@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name='light_grey'>#c4c4c4</color>
+    <color name='dark_grey'>#4d4d4d</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#5c422c</color>
+    <color name="secondary">#91d68b</color>
+    <color name="tertiary">#f2d46f</color>
+    <color name="text_dark">#453b1c</color>
+    <color name="text_light">#f7ddad</color>
+    <color name="background">#D0B9A1</color>
+    <color name="learn_primary">#784a1c</color>
+    <color name="learn_light">#D0B9A1</color>
+    <color name="learn_dark">#573819</color>
+    <color name="teach_primary">#4cab0c</color>
+    <color name="teach_light">#afe08d</color>
+    <color name="teach_dark">#325719</color>
+    <color name="edit">#3a98b5</color>
+    <color name="delete">#a61b1b</color>
+</resources>
